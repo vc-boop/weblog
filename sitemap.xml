@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://vasanch.com/</loc>
+  <lastmod>2020-09-11T10:10:31+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://vasanch.com/index.html</loc>
+  <lastmod>2020-09-11T10:10:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vasanch.com/raw.html</loc>
+  <lastmod>2020-09-11T10:10:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vasanch.com/highlights.html</loc>
+  <lastmod>2020-09-11T10:10:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vasanch.com/about.html</loc>
+  <lastmod>2020-09-11T10:10:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vasanch.com/undo.html</loc>
+  <lastmod>2020-09-11T10:10:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vasanch.com/productivity-problem.html</loc>
+  <lastmod>2020-09-11T10:10:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vasanch.com/new-dem.html</loc>
+  <lastmod>2020-09-11T10:10:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
