@@ -4,47 +4,48 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 
 <url>
   <loc>https://vasanch.com/</loc>
-  <lastmod>2020-09-14T04:03:13+00:00</lastmod>
+  <lastmod>2020-11-28T09:25:28+00:00</lastmod>
   <priority>1.00</priority>
 </url>
-
 <url>
-  <loc>https://vasanch.com/index.html</loc>
-  <lastmod>2020-09-14T04:03:13+00:00</lastmod>
+  <loc>https://vasanch.com/index</loc>
+  <lastmod>2020-11-28T09:25:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vasanch.com/raw.html</loc>
-  <lastmod>2020-09-14T04:03:13+00:00</lastmod>
+  <loc>https://vasanch.com/highlights</loc>
+  <lastmod>2020-11-28T09:25:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vasanch.com/highlights.html</loc>
-  <lastmod>2020-09-14T04:03:13+00:00</lastmod>
+  <loc>https://vasanch.com/about</loc>
+  <lastmod>2020-11-28T09:25:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vasanch.com/about.html</loc>
-  <lastmod>2020-09-14T04:03:13+00:00</lastmod>
+  <loc>https://vasanch.com/ditch</loc>
+  <lastmod>2020-11-28T09:25:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vasanch.com/undo.html</loc>
-  <lastmod>2020-09-14T04:03:13+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://vasanch.com/undo</loc>
+  <lastmod>2020-11-28T09:25:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vasanch.com/productivity-problem.html</loc>
-  <lastmod>2020-09-14T04:03:13+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://vasanch.com/productivity-problem</loc>
+  <lastmod>2020-11-28T09:25:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vasanch.com/new-dem.html</loc>
-  <lastmod>2020-09-14T04:03:13+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://vasanch.com/new-dem</loc>
+  <lastmod>2020-11-28T09:25:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
