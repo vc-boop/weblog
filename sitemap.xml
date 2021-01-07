@@ -9,42 +9,52 @@
 
 <url>
   <loc>https://vasanch.com/</loc>
-  <lastmod>2020-11-28T09:25:28+00:00</lastmod>
+  <lastmod>2021-01-02T23:41:09+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://vasanch.com/index</loc>
-  <lastmod>2020-11-28T09:25:28+00:00</lastmod>
+  <lastmod>2021-01-02T23:41:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://vasanch.com/highlights</loc>
-  <lastmod>2020-11-28T09:25:28+00:00</lastmod>
+  <lastmod>2021-01-02T23:41:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://vasanch.com/about</loc>
-  <lastmod>2020-11-28T09:25:28+00:00</lastmod>
+  <lastmod>2021-01-02T23:41:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vasanch.com/feedback</loc>
+  <lastmod>2021-01-02T23:41:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vasanch.com/range</loc>
+  <lastmod>2021-01-02T23:41:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://vasanch.com/ditch</loc>
-  <lastmod>2020-11-28T09:25:28+00:00</lastmod>
+  <lastmod>2021-01-02T23:41:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://vasanch.com/undo</loc>
-  <lastmod>2020-11-28T09:25:28+00:00</lastmod>
+  <lastmod>2021-01-02T23:41:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://vasanch.com/productivity-problem</loc>
-  <lastmod>2020-11-28T09:25:28+00:00</lastmod>
+  <lastmod>2021-01-02T23:41:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://vasanch.com/new-dem</loc>
-  <lastmod>2020-11-28T09:25:28+00:00</lastmod>
+  <lastmod>2021-01-02T23:41:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
